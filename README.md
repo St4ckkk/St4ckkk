@@ -13,7 +13,8 @@
     </td>
     <td valign="top">
    
-   <img align='right' alt="" src="https://github-readme-stats.vercel.app/api?username=ecoknows&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+   <![](https://github-readme-stats.vercel.app/api?username=2ez4Keyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=2ez4Keyan&theme=dark&hide_border=false)<br/>
      
  <img align='right' src"https://github-readme-streak-stats.herokuapp.com/?user=2ez4Keyan&theme=dark&hide_border=false" alt="ecoknows" />
     </td>

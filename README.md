@@ -18,9 +18,9 @@
     </td>
     <td valign="top">
    
-   <img align='right' alt="" src="https://github-readme-stats.vercel.app/api?username=ecoknows&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-     
- <img align='right' src="https://github-readme-streak-stats.herokuapp.com/?user=ecoknows&theme=react&hide_border=true&bg_color=0D1117" alt="ecoknows" />
+  ![](https://github-readme-stats.vercel.app/api?username=2ez4Keyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=2ez4Keyan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=2ez4Keyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
     </td>
   </tr>
 </table>

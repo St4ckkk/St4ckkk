@@ -4,7 +4,6 @@
       width="100%"
     />
     <h1 align="center">Hi 👋, I'm Keyan Andy Delgado</h1>
-
     <h3 align="center">
       A passionate student aspires to pursue a career as a full-stack developer.
     </h3>
@@ -14,7 +13,6 @@
         alt="2ez4keyan"
       />
     </p>
-
     <p align="left">
       <a href="https://github.com/ryo-ma/github-profile-trophy"
         ><img
@@ -22,10 +20,7 @@
           alt="2ez4keyan"
       /></a>
     </p>
-
-
     <h3 align="left">Connect with me:</h3>
-
     <p align="left">
       <a
         href="https://fb.com/https://web.facebook.com/keyandelgado.fajanoy"
@@ -37,7 +32,6 @@
           height="30"
           width="40"
       /></a>
-
       <a
         href="https://instagram.com/https://www.instagram.com/https.keyan/"
         target="blank"
@@ -49,9 +43,7 @@
           width="40"
       /></a>
     </p>
-
     <h3 align="left">Languages and Tools:</h3>
-
     <p align="left">
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img

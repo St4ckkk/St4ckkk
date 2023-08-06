@@ -33,6 +33,7 @@
       </td>
     </tr>
   </table>
+  
 # 💻 Tech Stack:
 <p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=c,cpp,css,mysql,html,js,java,php,dart"> </a> </p>
 <table>

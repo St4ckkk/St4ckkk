@@ -16,19 +16,24 @@
   </a>
 </p>
 
-# 💫 About Me:
-👋Hi there! I'm Keyan Andy Delgado<br>🎓21-year-old third-year BSIT student <br>🚀Passionate about coding and constantly exploring new horizons<br>🛠️Currently, my focus is on diving deep into the MERN stack <br>🌐💻 I'm on the hunt for a knowledgeable mentor to guide me on my journey into the MERN stack and beyond <br>🚀If you're an experienced developer willing to share your wisdom,<br>🤝let's connect and collaborate! <br><br>
-# 😃 Profile Views:
+# Profile Views
+
+
   <table>
     <tr>
+      <!-- <th>Profile Views</th> -->
       <th>Total Count</th>
     </tr>
     <tr>
+      <!-- Profile Views -->
       <td>
-         <a href="https://github.com/2ez4Keyan"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcat-coding-gif-22257939&psig=AOvVaw0u1SI8eaxGN91QxI_BVTFu&ust=1691407065740000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiC-rr0x4ADFQAAAAAdAAAAABAn"> </a>
+         <a href="https://github.com/2ez4Keyan"> <img src="https://komarev.com/ghpvc/?username=2ez4Keyan&style=for-the-badge&color=brightgreen"> </a>
       </td>
     </tr>
   </table>
+  
+# 💫 About Me:
+👋Hi there! I'm Keyan Andy Delgado<br>🎓21-year-old third-year BSIT student <br>🚀Passionate about coding and constantly exploring new horizons<br>🛠️Currently, my focus is on diving deep into the MERN stack <br>🌐💻 I'm on the hunt for a knowledgeable mentor to guide me on my journey into the MERN stack and beyond <br>🚀If you're an experienced developer willing to share your wisdom,<br>🤝let's connect and collaborate! <br><br>
   
 # 💻 Tech Stack:
 <p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=c,cpp,css,mysql,html,js,java,php,dart"> </a> </p>

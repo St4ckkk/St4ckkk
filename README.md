@@ -38,7 +38,7 @@
 <table>
   <tr>
     <td valign="center">
-     <img src="[https://tenor.com/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149](https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif)" width="400" alt='Cold' >
+     <img src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif" width="400" alt='Cold' >
     </td>
     <td valign="center">
       

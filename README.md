@@ -38,7 +38,7 @@
 <table>
   <tr>
     <td valign="center">
-     <img width="400" alt='Cold' src="https://tenor.com/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149](https://tenor.com/bhOSD.gif)">
+     <img width="400" alt='Cold' src="https://tenor.com/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149">
     </td>
     <td valign="center">
       

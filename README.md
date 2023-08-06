@@ -28,7 +28,7 @@
     <tr>
       <!-- Profile Views -->
       <td>
-         <a href="https://github.com/2ez4Keyan"> <img src="https://komarev.com/ghpvc/?username=2ez4Keyan&style=for-the-badge&color=brightgreen"> </a>
+         <a href="https://github.com/2ez4Keyan"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcat-coding-gif-22257939&psig=AOvVaw0u1SI8eaxGN91QxI_BVTFu&ust=1691407065740000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiC-rr0x4ADFQAAAAAdAAAAABAn"> </a>
       </td>
     </tr>
   </table>

@@ -22,7 +22,7 @@
 # 💫 About Me:
 👋Hi there! I'm Keyan Andy Delgado<br>🎓21-year-old third-year BSIT student <br>🚀Passionate about coding and constantly exploring new horizons<br>🛠️Currently, my focus is on diving deep into the MERN stack <br>🌐💻 I'm on the hunt for a knowledgeable mentor to guide me on my journey into the MERN stack and beyond <br>🚀If you're an experienced developer willing to share your wisdom,<br>🤝let's connect and collaborate! <br><br>
 
-# 😃 Profile Views
+# 😃 Profile Views:
   <table>
     <tr>
       <!-- <th>Profile Views</th> -->

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keyan Andy Delgado</h1>
 
 <h3 align="center">A passionate student aspires to pursue a career as a full-stack developer.</h3>
-<img src="[https://user-images.githubusercontent.com/66454964/174484002-30687fa7-b429-49ce-a08e-4fec77c39608.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRashakDude&psig=AOvVaw3nJFcSIbjnKJTPgzErYvco&ust=1691371154180000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDFiNfuxoADFQAAAAAdAAAAABAJ)" alt="coding" width="400"/>
+<img src="https://user-images.githubusercontent.com/66454964/174484002-30687fa7-b429-49ce-a08e-4fec77c39608.gif" alt="coding" width="400px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2ez4keyan&label=Profile%20views&color=0e75b6&style=flat" alt="2ez4keyan" /> </p>
 

@@ -35,7 +35,7 @@
   </table>
   
 # 💻 Tech Stack:
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=c,cpp,css,mysql,html,js,java,php,dart"> </a> </p>
+<p align="left"> <a href="https://github.com/2ez4Keyan"><img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php,dart,mysql,figma,git"> </a> </p>
 <table>
   <tr>
     <td valign="center">

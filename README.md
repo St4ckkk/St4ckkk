@@ -8,7 +8,7 @@
 [![](https://visitcount.itsvg.in/api?id=2ez4Keyan&icon=9&color=5)](https://visitcount.itsvg.in)
 <table>
   <tr>
-    <td valign="top">
+    <td valign="center">
      <img width="400" alt='Cold' src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif">
     </td>
     <td valign="top">

@@ -11,7 +11,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/keyandelgado.fajanoy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/https.keyan/) 
 
 # 💻 Tech Stack:
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=c,c++,css,sql,html,js,java,php,dart"> </a> </p>
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=c,cpp,css,mysql,html,js,java,php,dart"> </a> </p>
 
 [![](https://visitcount.itsvg.in/api?id=2ez4Keyan&icon=9&color=5)](https://visitcount.itsvg.in)
 <table>

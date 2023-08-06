@@ -11,7 +11,7 @@
     <td valign="center">
      <img width="400" alt='Cold' src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif">
     </td>
-    <td valign="top">
+    <td valign="center">
    
 ![](https://github-readme-stats.vercel.app/api?username=2ez4Keyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=2ez4Keyan&theme=dark&hide_border=false)<br/>

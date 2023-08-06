@@ -44,9 +44,11 @@
      <img width="400" alt='Cold' src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif">
     </td>
     <td valign="center">
-## My Stats:
+      
+## Activity On GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=2ez4Keyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ## Activity On GitHub:
+      
+## Activity On GitHub:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=2ez4Keyan&theme=dark&hide_border=false)<br/>
     </td>
   </tr>

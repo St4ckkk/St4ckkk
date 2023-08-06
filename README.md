@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Keyan</h1>
  <h3 align="center">
- A passionate student aspires to pursue a career as a full-stack developer.
+ A passionate student aspires to pursue a career as a full-stack developer. 🖥🌟🚀
 </h3>
 
 ## 🌐 Socials:

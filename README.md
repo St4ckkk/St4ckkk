@@ -154,7 +154,6 @@
         />
       </a>
     </p>
-
     <p>
       <img
         align="left"
@@ -162,7 +161,6 @@
         alt="2ez4keyan"
       />
     </p>
-
     <p>
       &nbsp;<img
         align="center"
@@ -170,7 +168,6 @@
         alt="2ez4keyan"
       />
     </p>
-
     <p>
       <img
         align="center"

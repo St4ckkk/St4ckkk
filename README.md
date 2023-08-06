@@ -13,10 +13,8 @@
     </td>
     <td valign="top">
    
-   <![](https://github-readme-stats.vercel.app/api?username=2ez4Keyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+   <![](https://github-readme-stats.vercel.app/api?username=Miming&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=2ez4Keyan&theme=dark&hide_border=false)<br/>
-     
- <img align='right' src"https://github-readme-streak-stats.herokuapp.com/?user=2ez4Keyan&theme=dark&hide_border=false" alt="ecoknows" />
     </td>
   </tr>
 </table>

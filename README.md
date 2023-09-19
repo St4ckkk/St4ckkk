@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I am currently a third-year college student majoring in **Bachelor Of Science In Information Technology**
  
  🌱 I’m currently learning **MERN Stack**
 
@@ -48,7 +48,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kad-f/kad-f/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kad-f/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -75,23 +75,3 @@
 
 
   </table>
-  
-# 💻 Tech Stack:
-<p align="left"> <a href="https://github.com/kad-f"><img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php,dart,mysql,figma,git"> </a> </p>
-<table>
-  <tr>
-    <td valign="center">
-     <img src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif" width="400" alt='Cold' >
-    </td>
-    <td valign="center">
-      
-# My Stats:
-![](https://github-readme-stats.vercel.app/api?username=kad-f&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-      
-# Activity On GitHub:
-![](https://github-readme-streak-stats.herokuapp.com/?user=kad-f&theme=dark&hide_border=false)<br/>
-    </td>
-  </tr>
-</table>
- 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,4 +1,4 @@
-<img align="center" width="100%" alt="" src="https://gist.githubusercontent.com/mahmudinm/47588cab5af928d2c8a2976d90216ea7/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
+<img align="center" width="100%" alt="" src="https://dribbble.com/shots/3174023-12-working-days-before-christmas-Last-day/attachments/9686553?mode=media"/>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kad-f.kad-f" />
 <h1 align="center">

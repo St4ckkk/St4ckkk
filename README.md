@@ -2,7 +2,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kad-f.kad-f" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Keyan+Andy+Delgado!;" />
+    <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" />
 </h1>
 
 <h3 align="center">An Aspiring Software Engineer</h3>

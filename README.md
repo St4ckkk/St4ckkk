@@ -17,7 +17,6 @@
 
  💬 Ask me about **Javascript, C, C++, PHP... or anything [here](https://github.com/kad-f)**
 
- ⚡ Fun fact **The highest-grossing video game of all time is Minecraft, with over 200 million copies sold worldwide! That's more than the population of many countries.**
  
  </div>
  

@@ -1,4 +1,4 @@
-<img align="center" width="100%" alt="" src="https://tenor.com/view/coding-anime-gif-24565564"/>
+<img align="center" width="100%" alt="" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif"/>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kad-f.kad-f" />
 <h1 align="center">

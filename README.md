@@ -1,5 +1,4 @@
-<img align="center" width="100%" alt="" src="https://github.com/kad-f/kad-f/assets/96453690/fedfc449-f52e-4dab-8313-c845a6b7583e
-"/>
+<img align="center" width="100%" alt="" src="https://camo.githubusercontent.com/129349897a723561f2a58215e9d2a880bd750c1f4e43e08b385910e8e7f89edc/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3336322f33363234392e676966"/>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kad-f.kad-f" />
 <h1 align="center">

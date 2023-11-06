@@ -2,7 +2,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kad-f.kad-f" />
 
-<img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" />
+<img align="center" heigh="80" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" />
 
 <h3 align="center">Aspiring Software Engineer</h3>
 

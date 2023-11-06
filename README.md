@@ -6,7 +6,7 @@
 
 <div style="text-align: center;">
   <img src="https://user-images.githubusercontent.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif" height="80" style="display: inline-block; vertical-align: middle;">
-  <h3 style="display: inline-block; vertical-align: middle;">Aspiring Software Engineer</h3>
+  <h3 style="display: inline-block; text-align: center;">Aspiring Software Engineer</h3>
 </div>
 
 

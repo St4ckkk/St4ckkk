@@ -9,7 +9,7 @@
 <div align="center">
   <h2>Aspiring Software Engineer</h2>
   <p>
-    I am currently a third-year college student majoring in <strong>Bachelor Of Science In Information Technology</strong>
+   🚀 I am currently a third-year college student majoring in <strong>Bachelor Of Science In Information Technology</strong>
   </p>
 </div>
 
@@ -53,6 +53,5 @@
 <hr/>
 
 <h3 align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif" />
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Facebook!;I'm+always+down+to+collab+:)">
 </h3>

@@ -5,9 +5,8 @@
 <img align="center" heigh="80" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" />
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif" height="80">
+  <img src="https://user-images.githubusercontent.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif" height="80">  Aspiring Software Engineer**
 </p>
-<h3 align="center">Aspiring Software Engineer</h3>
 
 
 

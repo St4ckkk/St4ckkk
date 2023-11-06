@@ -15,7 +15,11 @@
 
 <div align="center">
  
- 🔭 I am currently a third-year college student majoring in **Bachelor Of Science In Information Technology**
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" height="80">
+</p>
+<h3 align="center">I am currently a third-year college student majoring in **Bachelor Of Science In Information Technology**</h3>
+
  
  🌱 I’m currently learning **MERN Stack**
 

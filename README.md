@@ -7,7 +7,6 @@
 </p>
 
 <div align="center">
-  <h2>Aspiring Software Developer</h2>
   <p>
    🚀 I am currently a third-year college student majoring in <strong>Bachelor Of Science In Information Technology</strong>
   </p>

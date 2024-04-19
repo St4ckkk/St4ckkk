@@ -1,7 +1,3 @@
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=St4ckkk.St4ckkk" />
-</p>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 </p>

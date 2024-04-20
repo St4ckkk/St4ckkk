@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,php,mysql,cpp,c,java,python"/>
-  <img src="https://skillicons.dev/icons?i=xampp,figma,git,github,canva"/>
+  <img src="https://skillicons.dev/icons?i=apache,figma,git,github,canva"/>
 </div>
 
 

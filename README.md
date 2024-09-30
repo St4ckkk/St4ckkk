@@ -10,7 +10,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,php,mysql,cpp,c,java,python"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,php,mysql,cpp,c,cpp,flutter,laravel"/>
   <img src="https://skillicons.dev/icons?i=figma,git,github"/>
 </div>
 

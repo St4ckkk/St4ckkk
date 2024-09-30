@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/U7aLr7ZRdb8VQazT5f/giphy.gif
- ">
+  <img src="https://media.giphy.com/media/U7aLr7ZRdb8VQazT5f/giphy.gif">
 </p>
 
   

@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://wallpapers.com/images/high/the-disastrous-life-of-saiki-k-wallpaper-ug710jq36duxvzfi.webp">
+  <img src="![17276691420467568543553448181](https://github.com/user-attachments/assets/0060a9a7-e958-4434-b113-1e9102ac91b3)
+">
 </p>
 
   

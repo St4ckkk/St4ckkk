@@ -11,8 +11,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>  
   
 <div align="center">  
-    <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" style="width: 30%; margin: 10px;">  
-</div>  
+    <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" style="width: 30%; margin: 10px;">    
 
   <h3>Programming Languages:</h3>  
   <img src="https://skillicons.dev/icons?i=c,cpp,css,html,javascript,php,dart"/>  

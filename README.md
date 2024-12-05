@@ -8,12 +8,12 @@
   
 <div align="center">  
   <h3>Programming Languages:</h3>  
-  <img src="https://skillicons.dev/icons?i=c,cpp,css,html,javascript,php"/>  
+  <img src="https://skillicons.dev/icons?i=c,cpp,css,html,javascript,php,dart"/>  
 </div>  
   
 <div align="center">  
   <h3>Frameworks:</h3>  
-  <img src="https://skillicons.dev/icons?i=bootstrap,flutter,laravel"/>  
+  <img src="https://skillicons.dev/icons?i=bootstrap,flutter,laravel,react,node.js.express.js"/>  
 </div>  
   
 <div align="center">  

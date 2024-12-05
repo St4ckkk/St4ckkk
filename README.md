@@ -13,7 +13,7 @@
   
 <div align="center">  
   <h3>Frameworks:</h3>  
-  <img src="https://skillicons.dev/icons?i=bootstrap,flutter,laravel,react,node.express"/>  
+  <img src="https://skillicons.dev/icons?i=bootstrap,flutter,laravel,react,node,express"/>  
 </div>  
   
 <div align="center">  

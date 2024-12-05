@@ -8,7 +8,7 @@
   
 <hr/>  
   
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>  
+<h2 align="center">⚒️ Languages-Frameworks-Tools That I used⚒️</h2>  
   
 <div align="center">  
   <h3>Programming Languages:</h3>  

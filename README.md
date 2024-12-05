@@ -10,7 +10,6 @@
   
 <h2 align="center">⚒️ Languages-Frameworks-Tools That I used⚒️</h2>  
 
-<hr>
   
 <div align="center">  
   <h3>Programming Languages:</h3>  

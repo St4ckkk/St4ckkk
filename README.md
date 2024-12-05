@@ -9,7 +9,7 @@
 <hr/>  
 
 <div align="center"> 
-<h2>⚒️ Languages-Frameworks-Tools That I used⚒️</h2>  
+<h3>⚒️ Languages-Frameworks-Tools That I used⚒️</h3>  
 </div>
   
 <div align="center">  

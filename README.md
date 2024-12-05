@@ -3,12 +3,17 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" style="width: 30%; margin: 10px;">  
   <img src="https://private-user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzODkzMTIsIm5iZiI6MTczMzM4OTAxMiwicGF0aCI6Ii83NDAzODE5MC8yNDMxOTk1NDctNDIwNzcwNDktMTkzOS00OTNlLTlhMTktNDdjYTVkYjM2NjQzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA1VDA4NTY1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJhMTAyODNiYjc0MzI1ZmViZGJmMDNjOGQ3Y2MxODRhNzQ4ZDJlYTM5Mjg5ZTNhNzk0NDEwNjAyNzYzOGNhZjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xTgfYth0RL-z6PqFiTXpPoG9E_53KB3tatajDmlveeI" style="width: 30%; margin: 10px;">  
 </div>  
+
+
   
 <hr/>  
   
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>  
   
 <div align="center">  
+    <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" style="width: 30%; margin: 10px;">  
+</div>  
+
   <h3>Programming Languages:</h3>  
   <img src="https://skillicons.dev/icons?i=c,cpp,css,html,javascript,php,dart"/>  
 </div>  
